@@ -1,0 +1,12 @@
+
+A todo app for the terminal
+
+Usage:
+    todoapp [command]
+
+Available Commands:
+    add         Add a new task to the todo list
+    complete    Set a task as being completed
+    delete      Remove a task for the todo list by it's ID
+    help        Help about any command
+    list        Lists all of the tasks in your todo list
